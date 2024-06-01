@@ -1,2 +1,2 @@
 # so_long-1337MED
-This project is a very small 2D game. Its purpose is to make you work with textures, sprites, and some other very basic gameplay elements.
+Requires [MLX42](https://github.com/codam-coding-college/MLX42) v2.3.3
